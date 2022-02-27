@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>July 18. 1642. A perfect diurnall of all the proceedings of the English and Scotch armies in Ireland, from the 14 of June to this present. Sent over from Master Godwin, Master of the Ordnance in the English army, to a merchant now dwelling in London.</title>
+            <author>Godwin, Master.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86067</idno>
+            <idno type="STC">Wing G967</idno>
+            <idno type="STC">Thomason E107_10</idno>
+            <idno type="STC">ESTC R20302</idno>
+            <idno type="EEBO-CITATION">99863124</idno>
+            <idno type="RLIN">99863124</idno>
+            <idno type="VID">115306</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115306)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E107[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>July 18. 1642. A perfect diurnall of all the proceedings of the English and Scotch armies in Ireland, from the 14 of June to this present. Sent over from Master Godwin, Master of the Ordnance in the English army, to a merchant now dwelling in London.</title>
+                  <author>Godwin, Master.</author>
+               </titleStmt>
+               <extent>7, [1] p. ;   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jo. Raworth,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115306:1"/>
+            <pb facs="tcp:115306:1" rendition="simple:additions"/>
+            <p>JULY 18. 1642.</p>
+            <p>A perfect Diurnall OF All the proceedings of the Engliſh and Scotch Armies IN IRELAND, From the 14 of <hi>June</hi> to this preſent.</p>
+            <p>Sent over from Maſter Godwin, Maſter of the Ordnance in the Engliſh Army, TO A Merchant now dwelling in LONDON.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Jo. Raworth.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:115306:2"/>
+            <pb n="3" facs="tcp:115306:2"/>
+            <head>A perfect Diurnall of all the pro<g ref="char:EOLhyphen"/>ceedings of the Engliſh and Scotch Armies in IRELAND, From the Fourteenth of <hi>June,</hi> to this preſent.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Ueſday the Armie marched forth, be<g ref="char:EOLhyphen"/>ing about 5500 horſe and foot, and 8 Field Peices, under the conduct of the Lord Lieutenant Generall, with a deſigne of ſupply to relieve the Lord Preſident of <hi>Connaught,</hi> the firſt night we quartered at <hi>Pierstowne,</hi> where we had notice that Sir <hi>Richard Greenfield</hi> had beſett certaine Rebells in a ſtrong Caſtle, having loſt many men before it, but for want of Ordnance could not take it, whereupon was ſent him 3 of our beſt Field-peices for his aſſiſtance.</p>
+            <p>On Wedenſday the 15, we came within 2 miles of <hi>Trym,</hi> in theſe two dayes march we paſſed through an even Champion and rich ſoile, by many pleaſant ſeates, too good for ſo barbarons and wretched a people as in<g ref="char:EOLhyphen"/>habited it. June the 16. our men having made a breach in the Caſtle, aſſaulted it, but found the Enemie deſ<g ref="char:EOLhyphen"/>perately reſolute, reviling and calling them Engliſh doggs, Parliament Rebells, Puritan rogues, and holding up ſome of their beſt apparell and linnen at their ſword points, and topps of Pikes, and ſetting fire unto them burnt them in our ſight, ſaying, look you here you pil<g ref="char:EOLhyphen"/>laging Raſcals there is pillage for you, and when our Gunners ſhot, they cryed ſhoot home you rogues, Cap<g ref="char:EOLhyphen"/>tain
+<pb n="4" facs="tcp:115306:3"/>
+               <gap reason="illegible: blotted" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> granadoes, part of the houſe took fire, which ſome of them ſeeing, reſolutely burnt their armes goods, and and faſtly themſelves therein, others cryed for quarter, but none being granted but to the women and children, they reſolutely defended themſelves, and kept our men almoſt two houres at the breach at puſh of pike, throw<g ref="char:EOLhyphen"/>ing ſtones, ſlates, and hot liquor, in great abundance on them, ſpoyling many, yet our men encouraged by the example of Captain <hi>Statu<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> ſeconded him and <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſt<g ref="char:EOLhyphen"/>antly forced an entrance, killing many in the <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and found many that had bin killed by our ſhot, drawn into ſeverall corners, the reſt crying out, and begging for quarter, were brought out and ſtripped by our men and immediatly ſlain, being gueſſed in the totall at 140 perſons, beſides the women and children who had their liberty, we loſt about 30 men, and many wounded, a<g ref="char:EOLhyphen"/>mong whom Lieutenant Colonell <hi>Kirk</hi> is chief, of whoſe recovery there is great doubt; laſtly, having burnt the Caſtle, we leſt it, and on Thurſday marched through <hi>Trym</hi> a walled Town, ſtanding preaſantly on the Boyn, now fortified by Sir <hi>Richard Greenfield</hi> the Governour; thence we marched five miles to a ſtrong and pleaſant Town called <hi>Athboy,</hi> burnt, and forſaken by the enemy, that might we lay about <hi>Del<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in</hi> Caſtle, likewiſe forſa<g ref="char:EOLhyphen"/>ken by the enemy: about this part of the country wee recovered good ſtore of cattle, and other booties. On Saturday the 18 day, we marched to <hi>Rathconnell</hi> twelve miles; on Sunday the 19 day we marched through <hi>Mol<g ref="char:EOLhyphen"/>lingar,</hi> burnt and forſaken by the enemie, in it we found beer, corn, and wooll, hid under ground; this day a foot<g ref="char:EOLhyphen"/>man met us with a Letter from the Lord Preſident, that
+<pb n="5" facs="tcp:115306:3"/>
+night wee came to <hi>Ballimere</hi> 12 miles, 9 miles from <hi>Athlone,</hi> we found the Town and Church newly burnt, and a very ſtrong Fort which the enemy had made, for<g ref="char:EOLhyphen"/>ſaken, to our no ſmall wonder at their cowardiſe; the next day our Generall went to <hi>Athlone,</hi> accompanied with divers Commanders, taking with him a Convoy and the ſuccours for the Lord Preſident, being 18 com<g ref="char:EOLhyphen"/>panies of foot, and one troop of horſe, with two Field<g ref="char:EOLhyphen"/>pieces, and ſtore of Ammunition: there met him yong Sir <hi>Church Coot,</hi> whoſe wiſdom and courage, by Gods mercifull bleſſing, had been the preſervation of the En<g ref="char:EOLhyphen"/>gliſh in that part of the country, as his deceaſed Fathers induſtry and valour had bin in this; great was the joy the Townſmen were in upon the arrivall of our ſuccour. In our return another way, we found two dangerous paſſa<g ref="char:EOLhyphen"/>ges fortified and forſaken, the enemy ſuppoſing that we would have come that way from <hi>Dublin;</hi> for though they ſeemed to have Intelligence of our deſign and for<g ref="char:EOLhyphen"/>ces, as they often have had, yet they knew not but we would march the uſuall and direct rode way, which if we had done, it had coſt us the lives of many of our beſt men, they having placed their forts and redoubts accor<g ref="char:EOLhyphen"/>dingly, ſometimes they came out of the Bogs, and ſlew the ſtraglers in the Reare, and many of our men were in this journey loſt by marching diſorderly, and ſtragling to pillage, the enemie ſtill watching his advantages. The 24. being Friday, we came to <hi>Kilcock;</hi> 12 miles from <hi>Dublin,</hi> from which place a troop being ſent with ſome carriage to quarter at <hi>Menooth,</hi> a mile from the army, paſſing through the narrow pace in the wood, cer<g ref="char:EOLhyphen"/>tain companies of the enemie ſet upon them, ſlew one or two men, wounded divers horſe, put the reſt to flight
+<pb n="6" facs="tcp:115306:4"/>
+and took the carriage, which they conveyed to <hi>Welſhes</hi> Caſtle their place of retreat, where we hope ſhortly to find them to their coſt. The 25. we paſſed through <hi>Me<g ref="char:EOLhyphen"/>nooth,</hi> in which ſtood a moſt ſtately houſe of the Earl of <hi>Kildares</hi> lately burnt, the Garriſon placed therein, ha<g ref="char:EOLhyphen"/>ving their Sentinell ſtabb'd, the houſe betrayed by the Earls Bailiff an Iriſh man, who ſuddenly ſet fire on it and let in the Enemy, but Lieutenant <hi>Boughton</hi> with the Garriſon of 34. Muſquetiers beat them out, and ſeeing the roof falling over his head, made a deſperate ſally, and valiantly retreated, maugre their continuall aſ<g ref="char:EOLhyphen"/>ſaults and skirmiſhes; to the next Garriſon 4 miles off at <hi>Leſlipp,</hi> on Saturday night we arrived ſafely (bleſſed be God) at <hi>Dublin,</hi> though the Papiſts there had raiſed reports back'd with particulars, that we were all cutt off and defeated, we are preparing for another Journey for the performance of ſome great deſigne, (if want of mo<g ref="char:EOLhyphen"/>ney here and Union in <hi>England</hi> hinder not) on which I doubt not you will pray with us, that God will pleaſe to continue his gratious bleſſings, and proſper it. <hi>Amen.</hi>
+            </p>
+            <p>For other Intelligence there is little at preſent, onely that Sir <hi>Francis Hambleton</hi> and the Ladie <hi>Craig</hi> having kept their caſtles as long as they were able, through want of victualls and Ammunition were compelled to take quarter of <hi>Phel. O Relly,</hi> all that were with them being about 800. Perſons, being according to the agreement ſafely conveyed to the next Engliſh Garriſon, ſome of them being arrived here.</p>
+            <p>We are ſending ſome <hi>Culverin</hi> and other neceſſaries for war as is ſaid for <hi>Munster,</hi> but I ſuppoſe to meet our Armie at <hi>Wexford;</hi> we have a report that the Iriſh in
+<pb n="7" facs="tcp:115306:4"/>
+the North have had a great defeat by our forces, and al<g ref="char:EOLhyphen"/>ſo in <hi>Munster,</hi> and that the Lord of <hi>Ikerins</hi> is ſlaine, the firſt is confirmed that S. <hi>Robert Steward</hi> fought with 600 two houres and defeated them, ſlaying 5000. at the leaſt: this is now written for certaine.</p>
+            <p>A Partie of 1500. went hence, took in 3 Caſtles, ſlew 400. men, brought 70. priſoners, this done chief<g ref="char:EOLhyphen"/>ly by meanes of the Ordnance, not without the loſſe of ſome 30. of our men. This we eſteme very good ſer<g ref="char:EOLhyphen"/>vice.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
